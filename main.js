@@ -22,3 +22,5 @@ function getRow(firstRow, secondRow) {
 
 let a = getRow(firstRow,secondRow);
 console.log(a);
+
+// Надеюсь это лучше
